@@ -11,3 +11,4 @@ Entries are:
 - Purchase Invoice (Itemised)
 
 All accounting entries are stored in the `General Ledger`
+Check out this file. Changed for Claudion
