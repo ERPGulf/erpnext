@@ -12,6 +12,7 @@ app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
 app_logo_url = '/assets/erpnext/images/erp-icon.svg'
 
+fixtures = ["Custom Field"]
 
 develop_version = '13.x.x-develop'
 
